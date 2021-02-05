@@ -3,12 +3,12 @@
 Project 'Resizable Arrays'.
 Made by : Maha Ali 19b-099-CS-B.
 
-	Syed Owais Ahmed 18b-123-CS-B.
+Syed Owais Ahmed 18b-123-CS-B.
 	
 Under the Supervision of:
 	 Miss Asma Idress
 	 
-	Dr Qasim Pasta
+Dr Qasim Pasta
 
 How to use:
 
